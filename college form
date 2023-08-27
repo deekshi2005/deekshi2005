@@ -1,1 +1,134 @@
-hello....
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width,<intial-scale=1.0">
+    </intial-scale>
+    </meta charset>
+    <title>APPLICATION FORM FOR COLLEGE</title>
+</head>
+</html lang>
+<body>
+    <!--html comment-->
+    <!--
+        p,div-block element
+        span-inline element
+        ctrl+/
+    -->
+    <!--headings-->
+    <!--ADMISSION FORM-->
+    <h1>ADMISSION FORM</h1>
+    <h2>Enter your information for admission below</h2>
+    <h3>NAME*</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>First name</th>
+                <th>Middle name</th>
+                <th>Last name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <select name=""id="">
+                    <br>
+                    <th><input type=""name="First name"id=""></th>
+                    <th><input type=""name="Middle name"id=""></th>
+                    <th><input type=""name="Last name"id=""></th>
+            </tr>
+        </tbody>
+    </table>
+    <h4>BIRTH DATE*</h4>
+    <table border="1">
+        <thead>
+            <tr>
+               <th>Month</th>
+                <th>Date</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+        <tbody>
+          <select name=""id="">
+                    <br>
+                    <th><input type=""name="First name"id=""></th>
+                    <th><input type=""name="Middle name"id=""></th>
+                      </select>
+                       <th><select name=""id="">
+        <option value="">2004</option>
+          <option value=""selected>2005</option></th>
+    </select>
+        </tbody>
+    </table>
+    <h5>GENDER*</h5>
+    <form action="">
+        Gender:
+      <br>
+        Male<input type="radio"name="Gender">
+      <br>
+        Female<input type="radio"name="Gender">
+        <br>
+        Decline to answer<input type="radio"name="Gender">
+          </form>
+          <br>
+          <h6>Select your interested branch</h6>
+            COURSE:
+            <br>
+              CSE<input type="radio"name="COURSE">
+              <br>
+              CAI<input type="radio"name="COURSE">
+                <br>
+              CSD<input type="radio"name="COURSE">
+                  <br>
+              CSC<input type="radio"name="COURSE">
+                    <br>
+              ECE<input type="radio"name="COURSE">
+                      <br>
+              MEC<input type="radio"name="COURSE">
+          <br>
+              CIVIL<input type="radio"name="COURSE">
+            <br>
+              EEE<input type="radio"name="COURSE">
+              <br>
+              MBA<input type="radio"name="COURSE">
+                <br>
+              MCA<input type="radio"name="COURSE">
+                  <br>
+                    <br>
+                    <h7>Enter your COUNTRY</h7>
+      <input type=""name="country"id="">
+        <br>
+          <br>
+          <h8>Enter your state</h8>
+          <input type=""name="state"id="">
+            <br>
+              <br>
+              <h9>Enter your address</h9>
+              <input type=""name="address"id="">
+                <br>
+                  <br>
+                  <h10>PHONE NUMBER</h10>
+                    <table>
+                    <thead>
+                      <tr>
+                        <th> </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <th><input type=""name="phone number"id=""></th>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <br>
+                      <select name=""id="">
+        <option value="">SUBMIT</option>
+          <option value=""selected>RESET</option></th>
+                        </select>
+</body>
+</html>
+
+
+
+
+
